@@ -1,0 +1,4 @@
+{
+"nltk_path" : "data/nltk_data",
+"lemmatizer_path" : "http://192.168.1.2:8080/normalize"
+}
