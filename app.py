@@ -2,9 +2,6 @@ from flask import Flask
 from flask import request
 import requests
 import json
-from flask import jsonify
-from flask import Response
-from google.cloud import storage
 from source.utils import read_config, download_nltk
 from nltk.stem import WordNetLemmatizer
 import nltk
